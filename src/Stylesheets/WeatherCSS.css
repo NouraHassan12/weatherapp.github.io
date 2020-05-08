@@ -1,0 +1,17 @@
+.weather{
+    background-color:  #06030C;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.weather .content{
+padding-top: 200px;
+
+}
+
+.content h3{
+    color: white;
+    font-size: 40px;
+}

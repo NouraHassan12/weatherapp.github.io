@@ -1,0 +1,10 @@
+form{
+    display: flex;
+    width: 350px;
+}
+button{
+    border: none;
+    background-color: rgb(102, 102, 240);
+    width: 150px;
+   
+}
